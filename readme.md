@@ -5,8 +5,13 @@
 ---
 
 ## 产品简介
+<img width="1399" height="896" alt="截屏2026-01-23 03 07 25" src="https://github.com/user-attachments/assets/a944d13e-f891-4f4d-86de-b2f96f5be890" />
 
 EngiDeck 是一款专为运维工程师和开发者打造的桌面应用程序，将 SSH 终端、文件管理、数据库操作、容器管理等常用功能整合在一个优雅的界面中。告别在多个工具之间来回切换的烦恼，让您专注于真正重要的工作。
+
+<img width="1277" height="853" alt="截屏2026-01-19 23 36 52" src="https://github.com/user-attachments/assets/567a50e2-6ffb-4eeb-9e60-36f1032091b9" />
+
+
 
 **支持平台：** Windows / macOS
 
@@ -29,6 +34,9 @@ EngiDeck 是一款专为运维工程师和开发者打造的桌面应用程序�
 | Serial             | 串口设备调试                    |
 | Nginx              | 配置文件可视化管理              |
 
+<img width="1343" height="826" alt="截屏2026-01-23 03 07 57" src="https://github.com/user-attachments/assets/99051f01-cf15-4f6d-bd3f-c85541c6a67e" />
+
+
 ### AI 智能助手
 
 内置 AI 助手，让运维更智能：
@@ -37,6 +45,10 @@ EngiDeck 是一款专为运维工程师和开发者打造的桌面应用程序�
 - **Agent 模式**：AI 自动执行命令完成任务
 - **风险检测**：智能分析命令风险等级，敏感操作需确认
 - **支持 DeepSeek 和阿里云百炼**
+
+<img width="1052" height="737" alt="截屏2026-01-22 22 15 56" src="https://github.com/user-attachments/assets/f237342a-2d8c-4b2a-ad9c-b9a60d59289d" />
+
+
 
 ### 安全密码管理
 
@@ -60,10 +72,11 @@ EngiDeck 是一款专为运维工程师和开发者打造的桌面应用程序�
 - **水印标记**：自定义水印，避免误操作
 
 ---
+<img width="1909" height="951" alt="截屏2026-01-23 03 09 22" src="https://github.com/user-attachments/assets/2fe41145-5c86-42ac-a1f8-0f18250c82ff" />
 
-## 产品截图
 
-*（请访问官网查看产品截图）*
+
+
 
 ---
 
@@ -104,7 +117,7 @@ EngiDeck 是一款专为运维工程师和开发者打造的桌面应用程序�
 如有问题或建议，欢迎通过以下方式联系：
 
 - 官网：https://engideck.softs.xnet.ltd
-- 邮箱：support@xnet.ltd
+
 
 ---
 
